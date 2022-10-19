@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @ayushkashyap12, Basically, I do have Interest In  Hardware design (verilog +system Verilog),Let's share the  Ideas :)
+- 👋 Hi, I’m @ayushkashyap12, Basically, I do have Interest In  Hardware design ,Let's share the  Ideas :)
 
 <!---
 ayushkashyap12/ayushkashyap12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
